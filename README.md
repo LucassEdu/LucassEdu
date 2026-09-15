@@ -1,46 +1,65 @@
-# Olá, sou o Lucas Onofre 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E6B4F&height=200&section=header&text=Ol%C3%A1,%20sou%20o%20Lucas%20Onofre%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 
-Estudante do 5º período de Análise e Desenvolvimento de Sistemas na Estácio, com sólida vivência em conformidade operacional, rotinas administrativas e validação de relatórios. Foco em desenvolvimento backend com regras de negócio estruturadas, automação de rotinas em Python e modelagem de bancos de dados relacionais com foco em integridade e performance.
+Estudante do 5º período de Análise e Desenvolvimento de Sistemas na Estácio, com vivência prática em conformidade operacional e rotinas administrativas. Foco em desenvolvimento backend, modelagem de bancos de dados relacionais e automação de processos.
+
+---
+
+### 🚀 Projeto em Destaque
+
+<a href="https://github.com/LucassEdu/sistema-auditoria-conformidade">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=LucassEdu&repo=sistema-auditoria-conformidade&theme=dark&border_color=1E6B4F" />
+</a>
+
+Sistema completo de auditoria de conformidade operacional para transporte intermunicipal: PostgreSQL (modelagem relacional, ENUMs, migrações incrementais), Node.js/Express (API REST com transações de banco e tratamento de erros específicos) e frontend em JavaScript puro.
+
+<br clear="left"/>
 
 ---
 
 ### 🛠️ Competências Técnicas
 
-* **Linguagens:** Python, SQL, Java, JavaScript, Node.js
-* **Frameworks & Runtimes:** Spring Boot, Flask, .NET, Angular
-* **Bancos de Dados Relacionais:** PostgreSQL, MySQL, SQLite (Modelagem relacional, integridade referencial, JOINs e queries analíticas de agregação)
-* **Arquitetura & Ferramentas:** APIs REST, Git, GitHub, automação de fluxos operacionais e tratamento/validação de dados em planilhas
+**Linguagens**
+![Python](https://skillicons.dev/icons?i=python)
+![Java](https://skillicons.dev/icons?i=java)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![SQL](https://skillicons.dev/icons?i=postgres)
+
+**Frameworks & Runtimes**
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Spring](https://skillicons.dev/icons?i=spring)
+![Flask](https://skillicons.dev/icons?i=flask)
+![.NET](https://skillicons.dev/icons?i=dotnet)
+![Angular](https://skillicons.dev/icons?i=angular)
+
+**Bancos de Dados**
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![SQLite](https://skillicons.dev/icons?i=sqlite)
+
+**Ferramentas**
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VSCode](https://skillicons.dev/icons?i=vscode)
 
 ---
 
-### 💼 Aplicação Prática & Vivência Operacional
+### 📋 Aplicação Prática & Vivência Operacional
 
-* **Modelagem & Consultas SQL:** Construção de esquemas normalizados e elaboração de relatórios analíticos para controle de processos e apoio à tomada de decisão.
-* **Automação de Tarefas:** Desenvolvimento de rotinas em Python para validação, saneamento e persistência automatizada de dados operacionais.
-* **Rigor e Auditoria:** Experiência prática em conferência de conformidades e fluxo de dados de campo na ARSEPAM, além de conciliação de estoque e controle administrativo.
+- **Modelagem & Consultas SQL:** construção de esquemas normalizados e elaboração de relatórios analíticos para controle de processos
+- **Projeto Full-Stack:** desenvolvimento completo de sistema web (banco de dados, API REST e interface), com decisões de arquitetura documentadas — transações, migrações, prevenção de SQL Injection
+- **Rigor e Auditoria:** experiência prática em conferência de conformidades e fluxo de dados de campo na ARSEPAM
 
 ---
 
 ### 🎯 Foco Atual
-* Aprofundamento em arquitetura de microsserviços e APIs com **Java (Spring Boot)** e **Python**.
-* Aberto a oportunidades de **Estágio** e vagas **Júnior** em Desenvolvimento Backend, Suporte N2/Banco de Dados e Automação de Processos.
+
+- Construindo projetos full-stack com foco em modelagem de dados e APIs REST bem estruturadas
+- Aprofundando conhecimento em Java (Spring Boot) e Python
+- Aberto a oportunidades de **Estágio** e vagas **Júnior** em Desenvolvimento Backend, Suporte N2/Banco de Dados e Automação de Processos
 
 ---
 
-### 📫 Contato
-* **LinkedIn:** [Lucas Onofre](https://www.linkedin.com/in/lucas-onofre-8a6a03328/)
-* **E-mail:** lucaseduardo200523@outlook.com
-<!--
-**LucassEdu/LucassEdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📬 Contato
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-onofre-8a6a03328/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucaseduardo200523@outlook.com)
