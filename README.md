@@ -6,13 +6,9 @@ Estudante do 5º período de Análise e Desenvolvimento de Sistemas na Estácio,
 
 ### 🚀 Projeto em Destaque
 
-<a href="https://github.com/LucassEdu/sistema-auditoria-conformidade">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=LucassEdu&repo=sistema-auditoria-conformidade&theme=dark&border_color=1E6B4F" />
-</a>
+**[Sistema de Auditoria de Conformidade Operacional](https://github.com/LucassEdu/sistema-auditoria-conformidade)**
 
 Sistema completo de auditoria de conformidade operacional para transporte intermunicipal: PostgreSQL (modelagem relacional, ENUMs, migrações incrementais), Node.js/Express (API REST com transações de banco e tratamento de erros específicos) e frontend em JavaScript puro.
-
-<br clear="left"/>
 
 ---
 
