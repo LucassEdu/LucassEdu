@@ -4,10 +4,13 @@ Estudante do 5º período de Análise e Desenvolvimento de Sistemas na Estácio,
 
 ---
 
-### 🚀 Projeto em Destaque
+### 🚀 Projetos em Destaque
+
+**[Argos](https://github.com/LucassEdu/argos-api)** — organizador de contas e assinaturas recorrentes.
+API REST em Java 17 + Spring Boot (autenticação JWT, PostgreSQL, e-mails transacionais, testes unitários com JUnit/Mockito) e interface em Angular + TypeScript, com dashboard, gráficos, modo escuro e layout responsivo.
+[API](https://github.com/LucassEdu/argos-api) · [Interface web](https://github.com/LucassEdu/argos-web)
 
 **[Sistema de Auditoria de Conformidade Operacional](https://github.com/LucassEdu/sistema-auditoria-conformidade)**
-
 Sistema completo de auditoria de conformidade operacional para transporte intermunicipal: PostgreSQL (modelagem relacional, ENUMs, migrações incrementais), Node.js/Express (API REST com transações de banco e tratamento de erros específicos) e frontend em JavaScript puro.
 
 ---
