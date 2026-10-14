@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Lucas Onofre - Desenvolvedor Backend">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2a0b0e"/>
+      <stop offset="0.55" stop-color="#5e1a1e"/>
+      <stop offset="1" stop-color="#7a2128"/>
+    </linearGradient>
+    <pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#ffffff" fill-opacity="0.07"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#000" stop-opacity="0.18"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="320" fill="url(#bg)"/>
+  <rect width="1280" height="320" fill="url(#dots)"/>
+  <rect width="1280" height="320" fill="url(#fade)"/>
+  <!-- estrelinhas -->
+  <g fill="#ffd9d6" fill-opacity="0.8">
+    <circle cx="840" cy="70" r="2.2"/><circle cx="905" cy="250" r="1.8"/>
+    <circle cx="1175" cy="60" r="2.4"/><circle cx="1220" cy="240" r="1.6"/>
+    <circle cx="760" cy="200" r="1.6"/>
+  </g>
+  <!-- texto -->
+  <g font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" fill="#ffffff">
+    <text x="80" y="82" font-size="15" font-weight="700" letter-spacing="4" fill="#ffb3ad">OLÁ, EU SOU O</text>
+    <text x="80" y="160" font-size="74" font-weight="800">Lucas Onofre</text>
+    <text x="80" y="206" font-size="27" font-weight="600" fill="#ffe3e0">Desenvolvedor Backend · Java &amp; Spring Boot</text>
+    <text x="80" y="244" font-size="19" fill="#f1c9c6">Estudante de ADS · PostgreSQL · Angular · Manaus, AM</text>
+  </g>
+  <rect x="80" y="262" width="64" height="4" rx="2" fill="#ffb3ad"/>
+</svg>
